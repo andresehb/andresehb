@@ -17,6 +17,7 @@ Develop websites using programming languages such as HTML, CSS, and JavaScript.
 I also use React and Redux for the user or frontend side of a web application and Express, Sequelize, and PostgreSQL for the backend.
 
 Don't hesitate to reach out to me! I'm looking for job opportunities. 😉
+LinkedIn: https://www.linkedin.com/in/andres-hernandez-0729b0263/
 
 ## Projects and Contributions
 
@@ -26,4 +27,4 @@ I've built two projects and had one contribution so far! To keep it short, I'll 
 
 2. Cooking Recipes Library: This project also features a search bar to search for cooking recipes. Clicking on a recipe will display its name, summary, and a step-by-step guide on how to make it. You can create your own recipes, too!
 
-3. ElectroShop: This is my only contribution so far! I worked alongside other talented developers to deliver an e-commerce store in just under four weeks. I designed and developed an "About Us" section and an admin dashboard to create products and manage users.
+3. ElectroShop: This is my only contribution so far! I worked alongside other talented developers to deliver an e-commerce store in just under four weeks. I designed and developed an "About Us" section and an admin dashboard to create products and manage users. See it here: https://electro-shop-client-asekdr112-daniellatta.vercel.app/
